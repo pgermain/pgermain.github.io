@@ -1,0 +1,12 @@
+At first, this master thesis presents a general PAC-Bayes theorem, from which we can easily obtain
+some well-known PAC-Bayes bounds. Those bounds allow us to compute a guarantee on the risk of a
+classifier from its achievements on the training set. We analyze the behavior of two PAC-Bayes
+bounds and we determine peculiar characteristics of classifiers favoured by those bounds. Then, we
+present a specialization of those bounds to the linear classifiers family. 
+
+Secondly, we conceive three new machine learning algorithms based on the minimization, by conjugate
+gradient descent, of various mathematical expressions of the PAC-Bayes bounds. The last algorithm
+uses a part of the training set to capture a priori knowledges. One can use those algorithms to
+construct majority vote classifiers as well as linear classifiers implicitly represented by the
+kernel trick. Finally, an elaborated empirical study compares the three algorithms and shows that
+some versions of those algorithms are competitive with both AdaBoost and SVM. 

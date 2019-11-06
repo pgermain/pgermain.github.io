@@ -1,0 +1,11 @@
+@InProceedings{
+  author =    {Pascal Germain and Alexandre Lacasse and Francois Laviolette and Mario Marchand},
+  title =     {{PAC-Bayesian} Learning of Linear Classifiers},
+  booktitle = {Proceedings of the 26th International Conference on Machine Learning},
+  pages =     {353--360},
+  year =      2009,
+  editor =    {L\'{e}on Bottou and Michael Littman},
+  address =   {Montreal},
+  month =     {June},
+  publisher = {Omnipress}
+}

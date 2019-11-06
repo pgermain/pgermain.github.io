@@ -1,0 +1,10 @@
+@inproceedings{gllms-11,
+  author = {Pascal Germain and Alexandre Lacoste and Fran\c{c}ois Laviolette and Mario Marchand and Sara Shanian},
+  title = {{A PAC-Bayes Sample Compression Approach to Kernel Methods}},
+  booktitle = {Proceedings of the 28th International Conference on Machine Learning},
+  year = 2011,
+  address = {Bellevue, WA, USA},
+  month = {June},
+  url = {http://www.icml-2011.org/papers.php}
+}
+

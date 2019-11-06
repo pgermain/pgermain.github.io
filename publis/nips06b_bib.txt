@@ -1,0 +1,10 @@
+@incollection{
+ title = {A PAC-Bayes Risk Bound for General Loss Functions},
+ author = {Pascal Germain and Alexandre Lacasse and Francois Laviolette and Mario Marchand},
+ booktitle = {Advances in Neural Information Processing Systems 19},
+ editor = {B. Sch\"{o}lkopf and J. Platt and T. Hoffman},
+ publisher = {MIT Press},
+ address = {Cambridge, MA},
+ pages = {449--456},
+ year = {2007}
+}

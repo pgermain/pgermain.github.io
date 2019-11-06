@@ -1,0 +1,10 @@
+@incollection{
+ title = {PAC-Bayes Bounds for the Risk of the Majority Vote and the Variance of the Gibbs Classifier},
+ author = {Alexandre Lacasse and Francois Laviolette and Mario Marchand and Pascal Germain and Nicolas Usunier},
+ booktitle = {Advances in Neural Information Processing Systems 19},
+ editor = {B. Sch\"{o}lkopf and J. Platt and T. Hoffman},
+ publisher = {MIT Press},
+ address = {Cambridge, MA},
+ pages = {769--776},
+ year = {2007}
+}

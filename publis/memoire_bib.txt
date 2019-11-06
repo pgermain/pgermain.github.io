@@ -1,0 +1,8 @@
+@mastersthesis{germain-masterthesis,
+  title = {Algorithmes d'apprentissage automatique inspir{\'{e}}s de la th{\'{e}}orie {PAC-B}ayes},
+  author = {Pascal Germain},
+  year = {2009},
+  school = {Universit{\'{e}} Laval},
+  url = {http://www.theses.ulaval.ca/2009/26191/},
+}
+

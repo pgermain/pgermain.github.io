@@ -1,0 +1,13 @@
+@incollection{,
+year={2012},
+isbn={978-3-642-33557-0},
+booktitle={Principles and Practice of Constraint Programming},
+series={Lecture Notes in Computer Science},
+editor={Milano, Michela},
+doi={10.1007/978-3-642-33558-7_65},
+title={A Pseudo-Boolean Set Covering Machine},
+url={http://dx.doi.org/10.1007/978-3-642-33558-7_65},
+publisher={Springer Berlin Heidelberg},
+author={Germain, Pascal and Giguère, Sébastien and Roy, Jean-Francis and Zirakiza, Brice and Laviolette, François and Quimper, Claude-Guy},
+pages={916-924}
+}

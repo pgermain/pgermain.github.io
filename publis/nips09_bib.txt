@@ -1,0 +1,8 @@
+@incollection{
+ title = {From PAC-Bayes Bounds to KL Regularization},
+ author = {Pascal Germain and Alexandre Lacasse and Francois Laviolette and Mario Marchand and Sara Shanian},
+ booktitle = {Advances in Neural Information Processing Systems 22},
+ editor = {Y. Bengio and D. Schuurmans and J. Lafferty and C. K. I. Williams and A. Culotta},
+ pages = {603--610},
+ year = {2009}
+}
