@@ -1,0 +1,7 @@
+@inproceedings{godon2023icscm,
+  title     = {Invariant Causal Set Covering Machines},
+  author    = {Thibaud Godon and Baptiste Bauvin and Pascal Germain and Jacques Corbeil and Alexandre Drouin},
+  booktitle = {ICML 2023 Workshop on Spurious Correlations, Invariance, and Stability},
+  year      = {2023},
+  url       = {https://arxiv.org/abs/2306.04777}
+}
